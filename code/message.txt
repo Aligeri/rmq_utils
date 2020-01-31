@@ -1,0 +1,22 @@
+{
+  "ditCharges": [
+    {
+      "id": "34070825",
+      "rulingNumber": "18810150191014382999",
+      "rulingDate": "14.10.2019",
+      "articleKoap": "12.09.2 - Превышение скорости движения ТС от 20 до 40 км/ч",
+      "violationDate": "06.10.2019",
+      "violationDateWithTime": "06.10.2019 02:10:00",
+      "violationPlace": "28 КМ + 100 М, А/Д А-107 ММК МОЖАЙСКО-ВОЛОКОЛАМСКОГО НАПРАВЛЕНИЯ, РЕКОНСТРУ, МОСКОВСКАЯ ОБЛ.",
+      "sumToPay": 500,
+      "discountDate": "05.11.2019",
+      "odpsCode": "46511",
+      "odpsName": "Центр видеофиксации ГИБДД ГУ МВД России по Московской области",
+      "violationDocumentType": "Sts",
+      "violationDocumentNumber": "77СТ29321U",
+      "hasPhoto": false,
+      "payUrl": "https://avtokod.mos.ru/fines/payment?uin\u003dyVjhddlc7z8qNDFcxv25eK0Vxg6YsxQHF2NuLKco2e8%3D\u0026dateDap\u003d14.10.2019\u0026dapNum\u003d18810150191014382228",
+      "fineInfoUrl": "mos.ru/shtrafy/result?dap\u003d18810150191014382228"
+    }
+  ]
+}
