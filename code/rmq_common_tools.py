@@ -15,9 +15,9 @@ def rabbit_connection_str(adr):
     """
     cp_rabbit = {
         # Задаем коннект к кролику по IP, %2F - означает vhost = "/"
-        '192.168.1.25': 'amqp://rabbit_user:rabbit_password@192.168.1.25:5672/%2F',
+        '10.218.43.30': 'amqp://ig:ig@110.218.43.30:5672/pg-ig'
         # Задаем коннект к кролику по HOSTNAME
-        'my-rmq01': 'amqp://rabbit_user:rabbit_pass@my-rmq01:5672/my_vhost'
+        #'my-rmq01': 'amqp://ig:ig@ds-paym-rabbitmq-test.tcsbank.ru/:5672/pg-ig'
     }
     while adr not in cp_rabbit and adr != 'exit':
         adr = input(f'[{time_now()}] Указанный "кролик" не найден в справочнике! \n'
